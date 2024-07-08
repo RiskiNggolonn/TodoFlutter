@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076158223363",
+    "project_id": "todoflutter-2cf3d",
+    "storage_bucket": "todoflutter-2cf3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076158223363:android:3e8a195cd545d8a44b2a36",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA61dEanw40yRwOde-pdeda5QcheMHLO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
